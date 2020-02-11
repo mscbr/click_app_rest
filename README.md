@@ -7,5 +7,5 @@ For security reasons `nodemon.js` is excluded.
 DEMO/API:
 
 -   leaderboard endpoint GET: https://click-app-rest-mscbr.herokuapp.com/api/v1/leaderboard
--   click endpoint POST: https://click-app-rest-mscbr.herokuapp.com/api/v1/leaderboard
-    body: `{ "team": "team-name", "session": "random-string" }`
+-   click endpoint POST: https://click-app-rest-mscbr.herokuapp.com/api/v1/click
+    -   -   body: `{ "team": "team-name", "session": "random-string" }`
